@@ -14,3 +14,11 @@
 
 @import "bootstrap-sprockets";
 @import "bootstrap";
+@import "font-awesome-sprockets";
+@import "font-awesome";
+
+$font-default:  Tahoma, sans-serif;
+
+i {
+  font-family: $font-default
+}
