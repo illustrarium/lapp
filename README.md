@@ -1,3 +1,3 @@
 # README
 
-New app.s
+New app.
